@@ -3,10 +3,7 @@
 int main()
 
 {
-   std::cout << ”hello word!”;
+   std::cout << â€hello word!â€;
 
    return 0;
 }
-
-
-
