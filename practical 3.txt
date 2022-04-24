@@ -1,0 +1,13 @@
+#include <iostream.h>
+ 
+int main()
+ {
+   int a,b;
+   cout<<"enter two numbers:";
+   cin>>a>>b;
+   cout<<endl;
+   cout<<"value of a is:"<<a<<endl;
+   cout<<"value of b is:"<<b<<endl;
+   return 0;
+}
+   
